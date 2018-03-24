@@ -58,7 +58,6 @@ Route::group(['middleware' => 'auth:admin'], function () {
             ]
         );
     }
-
     );
 
     Route::group(['middleware' => 'can:notice'], function () {
@@ -69,7 +68,6 @@ Route::group(['middleware' => 'auth:admin'], function () {
             ]
         );
     }
-
     );
 
 
