@@ -1,0 +1,1 @@
+{"php":"7.0.10","version":"2.9.0:v2.9.0#454ddbe65da6a9297446f442bad244e8a99a9a38","rules":{"align_multiline_comment":true,"no_trailing_whitespace":true,"no_short_echo_tag":true,"no_unused_imports":true,"array_syntax":{"syntax":"short"},"ordered_imports":{"sortAlgorithm":"length"}},"hashes":{"app\\Http\\Controllers\\LoginController.php":2385550812}}
